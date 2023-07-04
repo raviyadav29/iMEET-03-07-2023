@@ -1,0 +1,23 @@
+.navbar{
+    background-color: blue;
+    color: white;
+    display: flex;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 80px;
+}
+.title{
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title01{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
